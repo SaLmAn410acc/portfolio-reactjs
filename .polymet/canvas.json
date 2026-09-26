@@ -1,0 +1,209 @@
+{
+  "schema_version": "1",
+  "nodes": [
+    {
+      "id": "cn_25f8q4vq",
+      "type": "file",
+      "source": "/src/polymet/components/site-navbar.tsx",
+      "entrypoint": "/src/polymet/components/site-navbar.render.tsx",
+      "description": "Sticky navbar: transparent to blurred, animated active pill, mobile menu",
+      "buildId": "286db8a5570f3999f9b454902798ef6d:d54b2e9d6bd41cb8b9200efd02f2eb7e201504683b4d41505e9bfacca1661be1672a304c",
+      "buildStatus": "SUCCESS",
+      "position": {
+        "x": 3000,
+        "y": 4000
+      },
+      "size": {
+        "width": 1024,
+        "height": 768
+      }
+    },
+    {
+      "id": "cn_znu2i2ns",
+      "type": "file",
+      "source": "/src/polymet/components/architecture-diagram.tsx",
+      "entrypoint": "/src/polymet/components/architecture-diagram.render.tsx",
+      "description": "Interactive Frontend → API → Backend → Database system diagram",
+      "buildId": "a76d5a1b8639bd0b9385b0937f1fa0d6:c76596adc6e92b304255c7d94f3e046aeda9dd9c3ed8af37b82810a2f1b5a69dcfdcfbaf",
+      "buildStatus": "SUCCESS",
+      "position": {
+        "x": 4224,
+        "y": 4000
+      },
+      "size": {
+        "width": 1024,
+        "height": 768
+      }
+    },
+    {
+      "id": "cn_1qofbwdd",
+      "type": "file",
+      "source": "/src/polymet/components/hero-section.tsx",
+      "entrypoint": "/src/polymet/components/hero-section.render.tsx",
+      "description": "Hero: name, title, headline, CTAs, stack badges and architecture diagram",
+      "buildId": "139e882e3f8401c4f68f5412ce2324d5:2001e713b31285675d7746cec8a6e0884c3a01fecdd30cfb9d95be66aa27eea7a7cd2de3",
+      "buildStatus": "SUCCESS",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 1024,
+        "height": 768
+      }
+    },
+    {
+      "id": "cn_d6esqfjv",
+      "type": "file",
+      "source": "/src/polymet/components/about-section.tsx",
+      "entrypoint": "/src/polymet/components/about-section.render.tsx",
+      "description": "About section with bio and profile info grid",
+      "buildId": "85a8eb54f6366bd91be34acf3a55c161:3fcac34994e6a295a780821be60ec842c67af9d4a2cdb736c7b65d2a9b0892d67c543ee6",
+      "buildStatus": "SUCCESS",
+      "position": {
+        "x": 6657,
+        "y": 4000
+      },
+      "size": {
+        "width": 1009,
+        "height": 839
+      }
+    },
+    {
+      "id": "cn_73157t46",
+      "type": "file",
+      "source": "/src/polymet/components/skills-section.tsx",
+      "entrypoint": "/src/polymet/components/skills-section.render.tsx",
+      "description": "Skills section with filterable category cards (no percentages)",
+      "buildId": "11f15713855e8be4cc05bb5bd703ca1a:6303be73b272d01a589b9d91f724ea24eec718bd6c4760984053bf6bf753a9b2cdadfee5",
+      "buildStatus": "SUCCESS",
+      "position": {
+        "x": 7866,
+        "y": 4000
+      },
+      "size": {
+        "width": 1009,
+        "height": 1312
+      }
+    },
+    {
+      "id": "cn_jo32imxu",
+      "type": "file",
+      "source": "/src/polymet/components/experience-section.tsx",
+      "entrypoint": "/src/polymet/components/experience-section.render.tsx",
+      "description": "Experience section with scroll-drawn vertical timeline",
+      "buildId": "776e1484d2d21497b96cc0a10845bf5e:4ddb1e041649d9257521946ac4f8634a3771ed559cbe89f8b74e2d6a2430dc928a34153a",
+      "buildStatus": "SUCCESS",
+      "position": {
+        "x": 9075,
+        "y": 4000
+      },
+      "size": {
+        "width": 1009,
+        "height": 968
+      }
+    },
+    {
+      "id": "cn_5iy9sprj",
+      "type": "file",
+      "source": "/src/polymet/components/project-mockups.tsx",
+      "entrypoint": "/src/polymet/components/project-mockups.render.tsx",
+      "description": "Coded UI mockups for projects: Kanban/ERP, CRM, SaaS forms",
+      "buildId": "cccddb599b99545bcdca918c10b7f186:4f0e1cf4a531edd9bcdb8a6fa0f113d1237ba859b71a9da63c636ffff15c6382c5cdd759",
+      "buildStatus": "SUCCESS",
+      "position": {
+        "x": 10284,
+        "y": 4000
+      },
+      "size": {
+        "width": 1024,
+        "height": 768
+      }
+    },
+    {
+      "id": "cn_hw2ri3em",
+      "type": "file",
+      "source": "/src/polymet/components/project-detail-dialog.tsx",
+      "entrypoint": "/src/polymet/components/project-detail-dialog.render.tsx",
+      "description": "Project detail modal with mockup, features and stack",
+      "buildId": "2ee0b421380240339377df1d343cb664:6a51f35e5093db68298f1ceacb4bc2b0b8990000de0857dfa37d5e7abe246b5d3c681445",
+      "buildStatus": "SUCCESS",
+      "position": {
+        "x": 3000,
+        "y": 5712
+      },
+      "size": {
+        "width": 1024,
+        "height": 768
+      }
+    },
+    {
+      "id": "cn_30rmval1",
+      "type": "file",
+      "source": "/src/polymet/components/projects-section.tsx",
+      "entrypoint": "/src/polymet/components/projects-section.render.tsx",
+      "description": "Projects section with large interactive cards and detail modal",
+      "buildId": "4ea683ad17cf688567c20d23cc7ecda5:82dfa593bf494ec4b64e96829a47b48f6faf628d2cc727b8f399e94b00fef677bafcf969",
+      "buildStatus": "SUCCESS",
+      "position": {
+        "x": 4224,
+        "y": 5712
+      },
+      "size": {
+        "width": 1009,
+        "height": 1616
+      }
+    },
+    {
+      "id": "cn_xi0skpm9",
+      "type": "file",
+      "source": "/src/polymet/components/services-section.tsx",
+      "entrypoint": "/src/polymet/components/services-section.render.tsx",
+      "description": "Services section with interactive cards",
+      "buildId": "5b8c8f5fecdfd5fab7d1777ba3dbff64:a1a38f5fec288892ddc8c7db405ab671c10ae6fa99da24d2bfeeefb0b473f97545084a5d",
+      "buildStatus": "SUCCESS",
+      "position": {
+        "x": 5433,
+        "y": 5712
+      },
+      "size": {
+        "width": 1009,
+        "height": 948
+      }
+    },
+    {
+      "id": "cn_zl01umax",
+      "type": "file",
+      "source": "/src/polymet/components/philosophy-section.tsx",
+      "entrypoint": "/src/polymet/components/philosophy-section.render.tsx",
+      "description": "Philosophy statement section with highlights",
+      "buildId": "48b552d91adc0aca14c41e424b4dd78b:f461d01bee1f0d4ffdb8ef8c05d4dac05df8da2c949d1bd62e0b4e08156cd9da535042fb",
+      "buildStatus": "SUCCESS",
+      "position": {
+        "x": 6642,
+        "y": 5712
+      },
+      "size": {
+        "width": 1009,
+        "height": 809
+      }
+    },
+    {
+      "id": "cn_m0dhygo9",
+      "type": "file",
+      "source": "/src/polymet/components/contact-section.tsx",
+      "entrypoint": "/src/polymet/components/contact-section.render.tsx",
+      "description": "Contact section with validated form (no fake success)",
+      "buildId": "8e88a48f5fb4c426a15e63d22f5a689f:7b1603acee0aa40f2b2a54a78f37af1a6000069b9d308e443969f039a6dc1e195443a8ff",
+      "buildStatus": "SUCCESS",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 1024,
+        "height": 768
+      }
+    }
+  ]
+}
