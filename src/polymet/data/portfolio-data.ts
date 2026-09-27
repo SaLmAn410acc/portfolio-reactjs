@@ -222,7 +222,7 @@ export const PROJECTS: Project[] = [
       "Multi-role operations portal built with React 18 and Vite to manage projects, workforce attendance, payroll, invoicing, and real-time task workflows.",
     description:
       "A comprehensive multi-role enterprise operations dashboard built with React 18, Vite, and Redux Toolkit. It centralizes operations across four distinct user personas (admins, project managers, employees, and clients) with permission-aware routing, clock-in time tracking, drag-and-drop Kanban task boards, PDF payslip generation, client billing, and real-time updates via Socket.IO and FCM.",
-    link: "#",
+    link: "https://credentials-ivory.vercel.app/?project=portal",
     images: [
       "/projects/portal-1.png",
       "/projects/portal-2.png",
@@ -268,7 +268,7 @@ export const PROJECTS: Project[] = [
       "Multi-role CRM and operations dashboard built with Next.js 14, centralizing lead pipelines, job tracking, staff workflows, and analytics.",
     description:
       "A scalable multi-role CRM and operations platform built for service-based businesses using Next.js 14 and Redux Toolkit. It unifies lead management, job tracking, calendar scheduling, staff workflows, and reporting into a single responsive interface backed by JWT authentication and Role-Based Access Control (RBAC).",
-    link: "#",
+    link: "https://credentials-ivory.vercel.app/?project=haworth",
     images: [
       "/projects/haworth-6.png",
       "/projects/haworth-1.png",
@@ -309,7 +309,7 @@ export const PROJECTS: Project[] = [
       "Subscription-based estate planning SaaS built with Next.js 15 and React 19, featuring guided multi-step form journeys, English/Spanish localization, and Stripe checkout.",
     description:
       "A multi-product estate planning and life-document platform built with Next.js 15, React 19, and TypeScript. It guides users through personalized legal workflows across multiple product packages (Cradle to Teen, College or Not, Committed Couple, Final Wishes) with resume-capable form navigation, Redux-persisted state, next-intl multi-language support (English & Spanish), Stripe coupon/tax checkout, PDF downloads, and an administrative portal.",
-    link: "#",
+    link: "https://credentials-ivory.vercel.app/?project=no-brianer",
     images: [
       "/projects/nobrainer-1.png",
       "/projects/nobrainer-2.png",
@@ -352,7 +352,7 @@ export const PROJECTS: Project[] = [
       "Role-based healthcare/home-care agency CRM with dashboards for Admin, Agency, Sub-Admin, and Caregiver roles.",
     description:
       "A role-based healthcare and home-care agency CRM built to support multiple user types with dedicated dashboards and access control. It includes service request tracking, caregiver management, document sharing, customer management, location tracking, and reporting workflows tailored to agency operations.",
-    link: "#",
+    link: "https://credentials-ivory.vercel.app/?project=aidechoice",
     images: [
       "/projects/aidechoice-1.png",
       "/projects/aidechoice-2.png",
