@@ -132,7 +132,7 @@ export const SKILL_GROUPS: SkillGroup[] = [
     description: "Communication, auth and payments.",
     skills: [
       "REST APIs",
-      "GraphQL API"
+      "GraphQL API",
       "WebSockets",
       "Authentication",
       "NextAuth",
