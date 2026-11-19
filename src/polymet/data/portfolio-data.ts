@@ -316,8 +316,7 @@ export const PROJECTS: Project[] = [
     description:
       "A modern, visually engaging website developed for Volkoh, a creative graphic and digital design agency. Built with Next.js and GSAP, the website features smooth scroll-based animations, interactive transitions, dynamic content sections, and immersive project showcases. The experience highlights the agency's creative services, including UI/UX design, custom website design, product design, and web & app development, with a strong focus on visual storytelling, responsive layouts, and performance.",
 
-    link: "",
-
+    link: "https://volkoh.com/",
     images: [
       "/projects/volkoh-1.png",
       "/projects/volkoh-2.png",
