@@ -118,7 +118,7 @@ export const SKILL_GROUPS: SkillGroup[] = [
     id: "backend",
     title: "Backend",
     description: "APIs and services on the server.",
-    skills: ["Node.js", "Express.js", "Laravel" "Java", "Spring Boot"],
+    skills: ["Node.js", "Express.js", "Laravel", "Java", "Spring Boot"],
   },
   {
     id: "database",
