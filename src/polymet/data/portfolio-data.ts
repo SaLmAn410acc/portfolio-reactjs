@@ -306,8 +306,49 @@ export const PROJECTS: Project[] = [
     mockup: "crm",
   },
   {
-    id: "no-brainer-forms",
+    id: "volkoh",
     index: "03",
+    name: "Volkoh – Creative Design Agency",
+    category: "Agency Website · Creative & Digital Design",
+    summary:
+      "A visually immersive agency website showcasing creative services, portfolio projects, and brand experiences, built with Next.js and GSAP animations.",
+
+    description:
+      "A modern, visually engaging website developed for Volkoh, a creative graphic and digital design agency. Built with Next.js and GSAP, the website features smooth scroll-based animations, interactive transitions, dynamic content sections, and immersive project showcases. The experience highlights the agency's creative services, including UI/UX design, custom website design, product design, and web & app development, with a strong focus on visual storytelling, responsive layouts, and performance.",
+
+    link: "",
+
+    images: [
+      "/projects/volkoh-1.png",
+      "/projects/volkoh-2.png",
+      "/projects/volkoh-3.png",
+      "/projects/volkoh-4.png"
+    ],
+    stack: [
+      "Next.js",
+      "React",
+      "JavaScript",
+      "GSAP",
+      "ScrollTrigger",
+      "CSS",
+      "Responsive Web Design",
+    ],
+
+    features: [
+      "GSAP-Powered Animations & Transitions",
+      "Smooth Scroll-Based Animations",
+      "Interactive Portfolio Showcase",
+      "Creative Service Presentation",
+      "Dynamic Content Sections",
+      "Responsive Layout & UI",
+      "Visual Storytelling & Motion Design",
+      "Performance-Optimized Frontend",
+    ],
+    mockup: "crm",
+  },
+  {
+    id: "no-brainer-forms",
+    index: "04",
     name: "No Brainer Forms",
     category: "Multilingual SaaS · Estate & Life Planning Platform",
     summary:
@@ -350,7 +391,7 @@ export const PROJECTS: Project[] = [
   },
   {
     id: "aidechoice-crm",
-    index: "04",
+    index: "05",
     name: "AideChoice CRM",
     category: "Healthcare CRM · Role-based Platform",
     summary:
