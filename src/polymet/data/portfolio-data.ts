@@ -32,13 +32,16 @@ export const PROFILE = {
 export const HERO = {
   eyebrow: "FULL STACK DEVELOPER",
   headline: "Building modern, scalable and exceptional web experiences.",
-  body: "I'm Muhammad Salman Khan, a Full Stack Developer with a strong frontend focus. I build modern web applications using React, Next.js and TypeScript, backed by Node.js, Express.js, Java and Spring Boot.",
+  body: "I'm Muhammad Salman Khan, a Full Stack Developer with a strong frontend focus. I build modern web applications using React, Next.js and TypeScript, backed by Node.js, Express.js, Laravel, Java and Spring Boot.",
   badges: [
     "React",
     "Next.js",
     "TypeScript",
     "Node.js",
     "Express.js",
+    "Nest.js",
+    "Php",
+    "Laravel",
     "Java",
     "Spring Boot",
   ],
@@ -115,7 +118,7 @@ export const SKILL_GROUPS: SkillGroup[] = [
     id: "backend",
     title: "Backend",
     description: "APIs and services on the server.",
-    skills: ["Node.js", "Express.js", "Java", "Spring Boot"],
+    skills: ["Node.js", "Express.js", "Laravel" "Java", "Spring Boot"],
   },
   {
     id: "database",
@@ -129,6 +132,7 @@ export const SKILL_GROUPS: SkillGroup[] = [
     description: "Communication, auth and payments.",
     skills: [
       "REST APIs",
+      "GraphQL API"
       "WebSockets",
       "Authentication",
       "NextAuth",
@@ -172,6 +176,7 @@ export const EXPERIENCE: ExperienceItem[] = [
       "TypeScript",
       "Node.js",
       "Express.js",
+      "Laravel",
       "Java",
       "Spring Boot",
       "REST APIs",
